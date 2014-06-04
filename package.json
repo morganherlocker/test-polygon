@@ -2,7 +2,7 @@
   "name": "test-polygon",
   "version": "0.0.1",
   "description": "geojson polygon test fixture",
-  "main": "index.js",
+  "main": "polygon.geojson",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
